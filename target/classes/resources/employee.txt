@@ -1,6 +1,6 @@
 {
   "id": 123,
-  "name": "Pankaj",
+  "name": "Charanjit Singh",
   "permanent": true,
   "address": {
     "street": "Albany Dr",
@@ -17,7 +17,7 @@
     "New York"
   ],
   "properties": {
-    "age": "29 years",
+    "age": "27 years",
     "salary": "1000 USD"
   }
 }
